@@ -36,20 +36,20 @@ For any questions or feedback, please contact [your email here].
 ```bash
 git clone https://github.com/Meanmernapp/Ai-agent-Resume
 ```
-## visit to the OpenAI API documentation
+## Visit to the OpenAI API documentation
 
  "[OpenAI API Documentation](https://platform.openai.com/docs/introduction)"
 
-## visit to the Streamlit documentation
+## Visit to the Streamlit documentation
 
  "[Streamlit Documentation](https://docs.streamlit.io/library/get-started)"
 
 
-## visit to the PyPDF2 documentation
+## Visit to the PyPDF2 documentation
 
  "[PyPDF2 Documentation](https://pypdf2.readthedocs.io/en/latest/)"
 
-## visit to the dotenv documentation
+## Visit to the dotenv documentation
 
  "[dotenv Documentation](https://pypi.org/project/python-dotenv/)"
 
