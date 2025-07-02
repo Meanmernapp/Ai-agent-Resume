@@ -37,26 +37,19 @@ For any questions or feedback, please contact [your email here].
 git clone https://github.com/Meanmernapp/Ai-agent-Resume
 ```
 ## visit to the OpenAI API documentation
-```bash
-st.markdown(
-    "[OpenAI API Documentation](https://platform.openai.com/docs/introduction)"
-)
-```
+
+ "[OpenAI API Documentation](https://platform.openai.com/docs/introduction)"
+
 ## visit to the Streamlit documentation
-```bash
-st.markdown(
-    "[Streamlit Documentation](https://docs.streamlit.io/library/get-started)"
-)
-```
+
+ "[Streamlit Documentation](https://docs.streamlit.io/library/get-started)"
+
+
 ## visit to the PyPDF2 documentation
-```bash
-st.markdown(
-    "[PyPDF2 Documentation](https://pypdf2.readthedocs.io/en/latest/)"
-)
-```
+
+ "[PyPDF2 Documentation](https://pypdf2.readthedocs.io/en/latest/)"
+
 ## visit to the dotenv documentation
-```bash
-st.markdown(
-    "[dotenv Documentation](https://pypi.org/project/python-dotenv/)"
-)
-```
+
+ "[dotenv Documentation](https://pypi.org/project/python-dotenv/)"
+
